@@ -47,14 +47,10 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
 | Etapa                         | Descripción |
 | ----------------------------- | ----------- |
-| Análisis Se estudian las necesidades del cliente y se obtienen los requerimientos del sistema.
-                     |             |
-| Diseño    Se planifica la solución del sistema y cómo estará estructurado.
-                    |             |
-| Codificación   Los programadores escriben el código del software.
-               |             |
-| Prueba       Se buscan errores o fallos en el sistema para corregirlos.
-                 |             |
+| Análisis    |  Se estudian las necesidades del cliente y se obtienen los requerimientos del sistema.           |
+| Diseño        | Se planifica la solución del sistema y cómo estará estructurado.            |
+| Codificación        | Los programadores escriben el código del software.            |
+| Prueba            | Se buscan errores o fallos en el sistema para corregirlos.            |
 | Puesta en marcha / Despliegue |Se instala el sistema y se capacita a los usuarios para utilizarlo.
              |
 
@@ -96,21 +92,10 @@ R:1.	Ingeniería de requerimientos
 Complete la siguiente tabla.
 | Modelo      | Característica principal | Cuándo conviene usarlo |
 | ----------- | ------------------------ | ---------------------- |
-| Cascada     |   Etapas secuenciales que se realizan una después de otra.
-                       |Sistemas pequeños y con requerimientos claros.
-                        |
-| Incremental |  El sistema se entrega en varias versiones.
-                        | Cuando conviene desarrollar el sistema por partes.
-                       |
-| Prototipos  | Se crea una versión de prueba para entender el sistema.
-                         | Cuando los requerimientos no están claros.
-                       |
-| Espiral     | Incluye análisis de riesgos en cada etapa.
-                         |  Proyectos complejos o con muchos riesgos.
-                      |
-| RAD         | Desarrollo rápido usando herramientas automáticas.
-                         | Cuando se necesita desarrollar el sistema en poco tiempo.
-                       |
+| Cascada     | Etapas secuenciales que se realizan una después de otra.       |Sistemas pequeños y con requerimientos claros.               |
+| Incremental |  El sistema se entrega en varias versiones.  | Cuando conviene desarrollar el sistema por partes.|
+| Prototipos  | Se crea una versión de prueba para entender el sistema. | Cuando los requerimientos no están claros. || Espiral     | Incluye análisis de riesgos en cada etapa.  |  Proyectos complejos o con muchos riesgos.  |
+| RAD         | Desarrollo rápido usando herramientas automáticas.     | Cuando se necesita desarrollar el sistema en poco tiempo.     |
 
 - Responder:
   - ¿Qué modelo es más adecuado cuando existen muchos riesgos en el proyecto?
